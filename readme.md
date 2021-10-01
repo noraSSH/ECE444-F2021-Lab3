@@ -1,3 +1,11 @@
+ECE444 Lab3
+
+Shihua Sun
+
+this repo is a clone of https://github.com/nelaturuk/education_pathways
+
+
+
 # CARTE Education Pathways
 
 ## Description
