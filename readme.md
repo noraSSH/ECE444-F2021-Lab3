@@ -5,6 +5,16 @@ Shihua Sun
 this repo is a clone of https://github.com/nelaturuk/education_pathways
 
 
+![Alt text](./snips/a1.JPG?raw=true "Activity 1")
+
+![Alt text](./snips/a2.JPG?raw=true "Activity 2")
+
+![Alt text](./snips/a3.JPG?raw=true "Activity 3")
+
+![Alt text](./snips/a4_1.JPG?raw=true "Activity 4_1")
+
+![Alt text](./snips/a4_2.JPG?raw=true "Activity 4_2")
+
 Activity 5
 
 
@@ -17,6 +27,7 @@ Improvement: Right now the searching results don't match the above criterion. In
 Non-functional requirement: the website should use high-contrasting colors to distinguish between background and information.
 
 Improvement: Right now the website only uses white colors and it's hard to tell which part is information and which part is functional buttons. In our design, we would use dark colors in the background and light colors in the text information box so that users can easily tell which part to look at.
+
 
 
 
