@@ -5,6 +5,20 @@ Shihua Sun
 this repo is a clone of https://github.com/nelaturuk/education_pathways
 
 
+Activity 5
+
+
+Functional requirement: When a user gives keyword for searching, the list of results should be ranked according to their relevance
+to the keyword for clear orginzation.
+
+Improvement: Right now the searching results don't match the above criterion. In our design, we would employ advanced algorithm to rank the seached courses based on their relevance to the keyword.
+
+
+Non-functional requirement: the website should use high-contrasting colors to distinguish between background and information.
+
+Improvement: Right now the website only uses white colors and it's hard to tell which part is information and which part is functional buttons. In our design, we would use dark colors in the background and light colors in the text information box so that users can easily tell which part to look at.
+
+
 
 # CARTE Education Pathways
 
